@@ -203,24 +203,29 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 ## Timeline
 
-```
-2024   Joined IIIT Kota, CSE Batch 2024-2028
-       Joined IIIT Kernel, TechKnow Council, and CodeBase
+### 2026
 
-2025   Content Developer Intern at CollegeDunia (Jun-Aug)
-       Built TruCheck, a browser security extension with 10-layer analysis
-       HackHatch Finalist and Team Leader, Top 100/1000+ teams, E-Cell IIIT Delhi
-       Void Hacks 7.0 Finalist and Team Leader, Top 60 teams, SVVV Indore
-       SIH Internal Hackathon Qualifier and Team Leader, IIIT Kota
+- **SDE Intern** at Snooozeit Entertainment *(Jun - present)*
+- **HackerRank Campus Crew Ambassador** *(Aug - present)*
+- **Milestone:** DevHQ crosses 5,000 page views and 4,000 unique visitors in 30 days
+- **Winner:** GeekOMania Quiz, GFG Campus Body, IIIT Kota *(all years, all branches)*
+- **Open Source:** Built DevHQ, merged into `emmabostian/developer-portfolios`
+- **Learning:** Pursuing Anthropic Academy: Building with Claude API
 
-2026   Built DevHQ, merged into emmabostian/developer-portfolios (OSS)
-       GeekOMania Quiz Winner, GFG Campus Body, IIIT Kota (all years, all branches)
-       DevHQ crosses 5,000 page views and 4,000 unique visitors in 30 days
-       SDE Intern at Snooozeit Entertainment (Jun - present)
-       HackerRank Campus Crew Ambassador (Aug - present)
-       Pursuing Anthropic Academy: Building with Claude API
+### 2025
 
-```
+- **Content Developer Intern** at CollegeDunia *(Jun - Aug)*
+- **Project:** Built TruCheck, a browser security extension with 10-layer analysis
+- **Hackathon Finalist:** HackHatch Finalist & Team Leader — Top 100 of 1000+ teams, E-Cell IIIT Delhi
+- **Hackathon Finalist:** Void Hacks 7.0 Finalist & Team Leader — Top 60 of 300+ teams, SVVV Indore
+- **Hackathon Qualifier:** SIH Internal Hackathon Qualifier & Team Leader, IIIT Kota
+
+### 2024
+
+- **Academics:** Joined IIIT Kota, CSE Batch 2024-2028
+- **Communities:** Joined IIIT Kernel, TechKnow Council, and CodeBase
+- **WBJEE'24:** Secured an All India Rank of **1099** (Top 0.77% out of 1,42,694 candidates)
+- **COMEDK UGET'24:** Secured an All India Rank of **1281** (Top 1.2% of over 1,18,000 candidates)
 
 ---
 
