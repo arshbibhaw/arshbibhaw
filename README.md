@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="assets/GitHub_Banner.png" alt="Aakarsh Bibhaw Banner" width="100%" />
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=arshbibhaw&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 <h1>Aakarsh Bibhaw</h1>
@@ -19,6 +22,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
 [![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1364-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
+
+<br/>
+<br/>
+
+<img src="assets/GitHub_GIF.gif" width="100%" alt="GitHub GIF" />
 
 </div>
 
@@ -232,5 +240,10 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 Open to internship opportunities in software engineering, AI, data, and founder's office roles.
 
 [aakarsh-devhq.vercel.app](https://aakarsh-devhq.vercel.app) · [linkedin.com/in/aakarsh-bibhaw](https://linkedin.com/in/aakarsh-bibhaw) · [cse.arsh@gmail.com](mailto:cse.arsh@gmail.com)
+
+<br/>
+<br/>
+
+<img src="assets/GitHub_Footer_GIF.gif" alt="Footer" width="100%" />
 
 </div>
