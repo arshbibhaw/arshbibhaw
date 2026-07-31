@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=arshbibhaw&label=Profile%20Views&color=0e75b6&style=flat-square)
+
 <h1>Aakarsh Bibhaw</h1>
 
 <p><strong>Full Stack AI Engineer · Hackathon Aficionado · CSE Undergrad at IIIT Kota</strong></p>
