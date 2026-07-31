@@ -2,7 +2,7 @@
 
 <h1>Aakarsh Bibhaw</h1>
 
-<p><strong>Software Engineer · AI Builder · CS Undergrad at IIIT Kota</strong></p>
+<p><strong>Full Stack AI Engineer · Hackathon Aficionado · CSE Undergrad at IIIT Kota</strong></p>
 
 <p><em>I turn ideas into products that ship. Currently focused on AI-powered tools, full-stack systems, and anything that solves a real problem.</em></p>
 
@@ -190,10 +190,6 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshbibhaw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshbibhaw&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arshbibhaw&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
