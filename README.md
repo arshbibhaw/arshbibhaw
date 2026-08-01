@@ -244,6 +244,6 @@ Open to internship opportunities in software engineering, AI, data, and founder'
 <br/>
 <br/>
 
-<img src="assets/GitHub_Footer_GIF.gif" alt="Footer" width="100%" />
+<img src="assets/Github_Footer.gif" alt="Footer" width="100%" />
 
 </div>
