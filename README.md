@@ -203,6 +203,10 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arshbibhaw&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshbibhaw&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true)
+
 </div>
 
 ---
