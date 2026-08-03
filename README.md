@@ -19,9 +19,9 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
-[![HackerRank](https://img.shields.io/badge/HackerRank_5★_Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
 [![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1364-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
+[![HackerRank](https://img.shields.io/badge/HackerRank_5★_·_Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
 
 <br/>
 <br/>
