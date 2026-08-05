@@ -53,8 +53,8 @@ Contact     cse.arsh@gmail.com
 
 | Metric | Count | Source |
 |:---:|:---:|:---:|
-| Portfolio Page Views | 5,600+ | Last 30 days |
-| Unique Visitors | 4,300+ | Last 30 days |
+| Portfolio Page Views | 5,650+ | Last 30 days |
+| Unique Visitors | 4,350+ | Last 30 days |
 | LinkedIn Connections | 2,500+ | As of 2026 |
 | Total Questions Solved | 210 | All platforms |
 | Active Coding Days | 57 | All time |
@@ -214,7 +214,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 - **SDE Intern** at Snooozeit Entertainment *(Jun - present)*
 - **HackerRank Campus Crew Ambassador** *(Aug - present)*
-- **Milestone:** DevHQ crosses 5,600 page views and 4,300 unique visitors in 30 days
+- **Milestone:** DevHQ crosses 5,650 page views and 4,350 unique visitors in 30 days
 - **Winner:** GeekOMania Quiz, GFG Campus Body, IIIT Kota *(all years, all branches)*
 - **Open Source:** Built DevHQ, merged into `emmabostian/developer-portfolios` & `Evavic44/portfolio-ideas`
 - **Learning:** Pursuing Anthropic Academy: Building with Claude API
