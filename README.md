@@ -53,12 +53,12 @@ Contact     cse.arsh@gmail.com
 
 | Metric | Count | Source |
 |:---:|:---:|:---:|
-| Portfolio Page Views | 5,650+ | Last 30 days |
-| Unique Visitors | 4,350+ | Last 30 days |
-| LinkedIn Connections | 2,500+ | At Present |
-| Total Questions Solved | 232 | All platforms |
+| Portfolio Page Views | 5,700+ | Peak Views (Last 30 days) |
+| Unique Visitors | 4,400+ | Peak Visitors (Last 30 days) |
+| LinkedIn Connections | 2,550+ | At Present |
+| Total Questions Solved | 233 | All platforms |
 | Active Coding Days | 60 | All time |
-| Contests Attended | 27 | LeetCode + CodeChef |
+| Contests Attended | 28 | LeetCode + CodeChef |
 | GitHub Repositories | 15 | Public + Private |
 
 </div>
