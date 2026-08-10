@@ -94,8 +94,8 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 | Repository | Contribution | Status |
 |---|---|---|
-| `emmabostian/developer-portfolios` | Added DevHQ to the open-source developer portfolio directory | Merged |
-| `Evavic44/portfolio-ideas` | Added DevHQ to an open-source repository for inspiration of awesome portfolio ideas | Merged |
+| [`emmabostian/developer-portfolios`](https://github.com/emmabostian/developer-portfolios) | Added DevHQ to the open-source developer portfolio directory | Merged |
+| [`Evavic44/portfolio-ideas`](https://github.com/Evavic44/portfolio-ideas) | Added DevHQ to an open-source repository for inspiration of awesome portfolio ideas | Merged |
 
 ---
 
