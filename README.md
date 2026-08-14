@@ -19,7 +19,7 @@
 
 <br/>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1364-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
+[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1381-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
 [![HackerRank](https://img.shields.io/badge/HackerRank_5★_·_Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
 
@@ -56,9 +56,9 @@ Contact     cse.arsh@gmail.com
 | Portfolio Page Views | 5,700+ | Peak Views (Last 30 days) |
 | Unique Visitors | 4,400+ | Peak Visitors (Last 30 days) |
 | LinkedIn Connections | 2,550+ | At Present |
-| Total Questions Solved | 233 | All platforms |
+| Total Questions Solved | 259 | All platforms |
 | Active Coding Days | 60 | All time |
-| Contests Attended | 28 | LeetCode + CodeChef |
+| Contests Attended | 30 | LeetCode + CodeChef |
 | GitHub Repositories | 15 | Public + Private |
 
 </div>
@@ -97,6 +97,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 | [`emmabostian/developer-portfolios`](https://github.com/emmabostian/developer-portfolios) | Added DevHQ to the open-source developer portfolio directory | Merged | [#3882](https://github.com/emmabostian/developer-portfolios/pull/3882) |
 | [`Evavic44/portfolio-ideas`](https://github.com/Evavic44/portfolio-ideas) | Added DevHQ to an open-source repository for inspiration of awesome portfolio ideas | Merged | [#677](https://github.com/Evavic44/portfolio-ideas/pull/677) |
 | [`Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite`](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite) | Implemented the 'Connect-with-Us' Section and Enhanced the STRUCTURE.md file | Merged | [#1](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite/pull/1) |
+| [`Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-`](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-) | Enhancement: UI/UX Modernization, Independence Day Theme, and Performance Fixes | Merged | [#1](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-/pull/1) |
 
 ---
 
@@ -181,7 +182,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 | Platform | Handle | Stats |
 |:---:|:---:|:---:|
-| CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1364 · Highest 1407 · 84 problems · 24 contests |
+| CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1381 · Highest 1407 · 110 problems · 26 contests |
 
 </div>
 
