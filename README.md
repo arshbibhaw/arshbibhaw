@@ -97,7 +97,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 | [`emmabostian/developer-portfolios`](https://github.com/emmabostian/developer-portfolios) | Added DevHQ to the open-source developer portfolio directory | Merged | [#3882](https://github.com/emmabostian/developer-portfolios/pull/3882) |
 | [`Evavic44/portfolio-ideas`](https://github.com/Evavic44/portfolio-ideas) | Added DevHQ to an open-source repository for inspiration of awesome portfolio ideas | Merged | [#677](https://github.com/Evavic44/portfolio-ideas/pull/677) |
 | [`Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite`](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite) | Implemented the 'Connect-with-Us' Section and Enhanced the STRUCTURE.md file | Merged | [#1](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite/pull/1) |
-| [`Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-`](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-) | Enhancement: UI/UX Modernization, Independence Day Theme, and Performance Fixes | Merged | [#1](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-/pull/1) |
+| [`Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-`](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-) | Enhanced UI/UX Modernization, Independence Day Theme, and Performance Fixes | Merged | [#1](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-/pull/1) |
 
 ---
 
