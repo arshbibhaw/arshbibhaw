@@ -123,6 +123,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 | AI Fluency: Capabilities and Limitations | Anthropic Academy | [Verify](https://verify.skilljar.com/c/hasftoxptzgd) |
 | Data Analytics Job Simulation | Deloitte x Forage | [Verify](https://drive.google.com/file/d/1_zaiiUSxKRVZ7kJ4U_BDffjc3SPpKpqR/view) |
 | SQL Intermediate | HackerRank | [Verify](https://drive.google.com/file/d/1SzwC8ZvCaloBbZkS_fdZLePhqu-Ng8Al/view) |
+| SQL Basic | HackerRank | [Verify](https://www.hackerrank.com/certificates/4c4a99fffc73) |
 
 ---
 
