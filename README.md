@@ -53,7 +53,7 @@ Contact     cse.arsh@gmail.com
 
 | Metric | Count | Source |
 |:---:|:---:|:---:|
-| Portfolio Page Views | 5,700+ | Peak Views (Last 30 days) |
+| Portfolio Page Views | 5,750+ | Peak Views (Last 30 days) |
 | Unique Visitors | 4,400+ | Peak Visitors (Last 30 days) |
 | LinkedIn Connections | 2,550+ | At Present |
 | Total Questions Solved | 259 | All platforms |
