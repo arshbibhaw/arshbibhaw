@@ -19,7 +19,7 @@
 
 <br/>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1381-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
+[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1382-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
 [![HackerRank](https://img.shields.io/badge/HackerRank_5★_·_Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
 
@@ -75,6 +75,7 @@ Contact     cse.arsh@gmail.com
 | **Deloitte Data Analytics Simulation** | Step-by-step walkthrough of the Deloitte Forage simulation. Covers machine downtime analysis via Tableau and equality classification in Excel. | Python, Tableau, Excel | [GitHub](https://github.com/arshbibhaw/Deloitte-Data-Analytics-Job-Simulation) |
 | **LeetCode SQL 50** | Structured MySQL solutions for all 50 problems in LeetCode's SQL Study Plan, organized topic-wise for easy reference. | MySQL | [GitHub](https://github.com/arshbibhaw/LeetCode-SQL-50-Study-Plan) |
 | **Interactive Live Quiz** | Interactive live quiz application for events featuring modern UI/UX, theme customization, and performance optimizations. | HTML, CSS, JavaScript | [GitHub](https://github.com/arshbibhaw/Interactive-Live-quiz-for-events-) |
+| **Nyaya Saathi** | [Description of Nyaya Saathi] | [Tech Stack] | [GitHub](#) |
 
 ---
 
@@ -184,7 +185,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 | Platform | Handle | Stats |
 |:---:|:---:|:---:|
-| CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1381 · Highest 1407 · 110 problems · 26 contests |
+| CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1382 · Highest 1407 · 110 problems · 26 contests |
 
 </div>
 
