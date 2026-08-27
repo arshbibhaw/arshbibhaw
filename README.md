@@ -51,6 +51,7 @@ Contact     cse.arsh@gmail.com
 
 <div align="center">
 
+<!-- START_STATS -->
 | Metric | Count | Source |
 |:---:|:---:|:---:|
 | Portfolio Page Views | 5,750+ | Peak Views (Last 30 days) |
@@ -60,6 +61,7 @@ Contact     cse.arsh@gmail.com
 | Active Coding Days | 60 | All time |
 | Contests Attended | 30 | LeetCode + CodeChef |
 | GitHub Repositories | 15 | Public + Private |
+<!-- END_STATS -->
 
 </div>
 
@@ -67,6 +69,7 @@ Contact     cse.arsh@gmail.com
 
 ## Projects
 
+<!-- START_PROJECTS -->
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | **TruCheck** | Real-time browser security extension with 10-layer analysis. Assigns Trust Scores (0-100) to websites and detects phishing, typosquatting, and suspicious URLs before they load. | JavaScript, Google Safe Browsing API, HaveIBeenPwned API | [GitHub](https://github.com/arshbibhaw/TruCheck-Browser-Security-Extension) |
@@ -76,6 +79,7 @@ Contact     cse.arsh@gmail.com
 | **LeetCode SQL 50** | Structured MySQL solutions for all 50 problems in LeetCode's SQL Study Plan, organized topic-wise for easy reference. | MySQL | [GitHub](https://github.com/arshbibhaw/LeetCode-SQL-50-Study-Plan) |
 | **Interactive Live Quiz** | Interactive live quiz application for events featuring modern UI/UX, theme customization, and performance optimizations. | HTML, CSS, JavaScript | [GitHub](https://github.com/arshbibhaw/Interactive-Live-quiz-for-events-) |
 | **Nyaya Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts using RAG. | Next.js, TypeScript, FastAPI, PostgreSQL | [GitHub](https://github.com/arshbibhaw/Nyaya-Saathi) |
+<!-- END_PROJECTS -->
 
 ---
 
