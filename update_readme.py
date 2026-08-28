@@ -90,6 +90,44 @@ def generate_projects_table(repos):
         
     return table
 
+# Custom PR Descriptions
+CUSTOM_PR_DESCRIPTIONS = {
+    "https://github.com/emmabostian/developer-portfolios/pull/3882": "Added DevHQ to the open-source developer portfolio directory",
+    "https://github.com/Evavic44/portfolio-ideas/pull/677": "Added DevHQ to an open-source repository for inspiration of awesome portfolio ideas",
+    "https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite/pull/1": "Implemented the 'Connect-with-Us' Section and Enhanced the STRUCTURE.md file",
+    "https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-/pull/1": "Enhanced UI/UX Modernization, Independence Day Theme, and Performance Fixes"
+}
+
+def get_merged_prs(username):
+    url = f"https://api.github.com/search/issues?q=is:pr+is:merged+author:{username}+-user:{username}&sort=updated&order=desc&per_page=10"
+    try:
+        resp = requests.get(url, headers=headers_github)
+        data = resp.json()
+        items = data.get("items", [])
+        
+        if not items:
+            return ""
+            
+        table = "| Repository | Contribution | Status | Pull Request |\n"
+        table += "|---|---|---|---|\n"
+        
+        for item in items:
+            pr_url = item.get("html_url")
+            pr_title = item.get("title")
+            pr_number = item.get("number")
+            repo_url = item.get("repository_url", "").replace("api.github.com/repos/", "github.com/")
+            repo_name = repo_url.split("github.com/")[-1]
+            
+            # Use custom description if available, otherwise fallback to PR title
+            description = CUSTOM_PR_DESCRIPTIONS.get(pr_url, pr_title)
+            
+            table += f"| [`{repo_name}`]({repo_url}) | {description} | Merged | [#{pr_number}]({pr_url}) |\n"
+            
+        return table
+    except Exception as e:
+        print(f"Error fetching PRs: {e}")
+        return ""
+
 def update_readme():
     # Use GITHUB_REPOSITORY_OWNER if available (in GitHub Actions), else default to 'arshbibhaw'
     username = os.getenv("GITHUB_REPOSITORY_OWNER", "arshbibhaw")
@@ -99,6 +137,9 @@ def update_readme():
     
     print("Fetching Vercel Analytics...")
     vercel_views = get_vercel_views()
+    
+    print("Fetching Open Source PRs...")
+    prs_table = get_merged_prs(username)
     
     # Generate new content
     projects_table = generate_projects_table(repos)
@@ -112,16 +153,22 @@ def update_readme():
     new_projects_section = f"<!-- START_PROJECTS -->\n{projects_table}<!-- END_PROJECTS -->"
     readme = projects_pattern.sub(new_projects_section, readme)
     
+    # Replace Open Source PRs
+    if prs_table:
+        prs_pattern = re.compile(r"<!-- START_OPEN_SOURCE -->.*?<!-- END_OPEN_SOURCE -->", re.DOTALL)
+        new_prs_section = f"<!-- START_OPEN_SOURCE -->\n{prs_table}<!-- END_OPEN_SOURCE -->"
+        readme = prs_pattern.sub(new_prs_section, readme)
+    
     # Update GitHub Repositories count dynamically in the stats table
-    repo_row_pattern = re.compile(r"\| GitHub Repositories \| .*? \| Public \+ Private \|")
-    readme = repo_row_pattern.sub(f"| GitHub Repositories | {public_repos} | Public + Private |", readme)
+    repo_row_pattern = re.compile(r"\| GitHub Repositories \| .*? \| Public \|")
+    readme = repo_row_pattern.sub(f"| GitHub Repositories | {public_repos} | Public |", readme)
     
     if vercel_views is not None:
         # Update Portfolio Page Views
-        views_row_pattern = re.compile(r"\| Portfolio Page Views \| .*? \| Peak Views \(Last 30 days\) \|")
+        views_row_pattern = re.compile(r"\| Portfolio Page Views \| .*? \| Page Views \(Last 30 days\) \|")
         # Format the number with commas (e.g., 5,750)
         formatted_views = f"{vercel_views:,}"
-        readme = views_row_pattern.sub(f"| Portfolio Page Views | {formatted_views}+ | Peak Views (Last 30 days) |", readme)
+        readme = views_row_pattern.sub(f"| Portfolio Page Views | {formatted_views}+ | Page Views (Last 30 days) |", readme)
     
     # Write back
     with open("README.md", "w", encoding="utf-8") as f:
