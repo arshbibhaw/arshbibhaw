@@ -112,7 +112,7 @@ Contact     cse.arsh@gmail.com
 | Total Questions Solved | 259 | All platforms |
 | Active Coding Days | 60 | All time |
 | Contests Attended | 30 | LeetCode + CodeChef |
-| GitHub Repositories | 15 | Public + Private |
+| GitHub Repositories | 16 | Public + Private |
 <!-- END_STATS -->
 
 </div>
@@ -124,13 +124,13 @@ Contact     cse.arsh@gmail.com
 <!-- START_PROJECTS -->
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **TruCheck** | Real-time browser security extension with 10-layer analysis. Assigns Trust Scores (0-100) to websites and detects phishing, typosquatting, and suspicious URLs before they load. | JavaScript, Google Safe Browsing API, HaveIBeenPwned API | [GitHub](https://github.com/arshbibhaw/TruCheck-Browser-Security-Extension) |
-| **DevHQ** | Personal portfolio featuring a 3D WebGL starfield, GSAP scroll animations, custom cursor, magnetic card tilt, and typing effects. Lighthouse score 92+. | Three.js, GSAP, JavaScript, CSS | [Live](https://aakarsh-devhq.vercel.app) · [GitHub](https://github.com/arshbibhaw/DevHQ-Personal-Portfolio-Website) |
-| **IIIT Kernel Website** | Official website for IIIT Kota's founding student club. Led the full build from design to deployment. | TypeScript, HTML, CSS | [Live](https://iiit-kernel.vercel.app) · [GitHub](https://github.com/arshbibhaw/IIIT-Kernel-2K25-Website) |
-| **Deloitte Data Analytics Simulation** | Step-by-step walkthrough of the Deloitte Forage simulation. Covers machine downtime analysis via Tableau and equality classification in Excel. | Python, Tableau, Excel | [GitHub](https://github.com/arshbibhaw/Deloitte-Data-Analytics-Job-Simulation) |
-| **LeetCode SQL 50** | Structured MySQL solutions for all 50 problems in LeetCode's SQL Study Plan, organized topic-wise for easy reference. | MySQL | [GitHub](https://github.com/arshbibhaw/LeetCode-SQL-50-Study-Plan) |
-| **Interactive Live Quiz** | Interactive live quiz application for events featuring modern UI/UX, theme customization, and performance optimizations. | HTML, CSS, JavaScript | [GitHub](https://github.com/arshbibhaw/Interactive-Live-quiz-for-events-) |
-| **Nyaya Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts using RAG. | Next.js, TypeScript, FastAPI, PostgreSQL | [GitHub](https://github.com/arshbibhaw/Nyaya-Saathi) |
+| **arshbibhaw** | No description provided. | Python | [GitHub](https://github.com/arshbibhaw/arshbibhaw) |
+| **Nyaya-Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts. | TypeScript | [Live](https://nyaayasaathi.vercel.app) · [GitHub](https://github.com/arshbibhaw/Nyaya-Saathi) |
+| **AI_Engineering_PwP** | This repository is where I document my AI Engineering learning journey through the Padho with Pratyush YouTube course. I'm building projects, experimenting with ideas, and practicing concepts as I continue to learn and improve my skills. | Python | [GitHub](https://github.com/arshbibhaw/AI_Engineering_PwP) |
+| **Booking-Automation-System** | This is currently a demo project. | N/A | [GitHub](https://github.com/arshbibhaw/Booking-Automation-System) |
+| **DevHQ-Personal-Portfolio-Website** | Professional portfolio with 3D WebGL starfield, GSAP animations, and interactive effects. Built with Three.js, GSAP, and JavaScript. Features custom cursor, typing animation, magnetic 3D card tilt, timeline progress, secure Vercel serverless backend, and glassmorphism design. Optimized for Peak Performance with consistent 60fps WebGL rendering. | CSS | [Live](https://aakarsh-devhq.vercel.app) · [GitHub](https://github.com/arshbibhaw/DevHQ-Personal-Portfolio-Website) |
+| **IIIT-Kernel-2K25-Website** | This is the Official Website of IIIT Kernel made by Aakarsh Bibhaw and Aditya Pandey. | TypeScript | [Live](https://iiit-kernel.vercel.app) · [GitHub](https://github.com/arshbibhaw/IIIT-Kernel-2K25-Website) |
+| **LeetCode-SQL-50-Study-Plan** | A structured collection of MySQL solutions to all 50 problems in LeetCode's SQL Study Plan, covering from fundamentals to advanced concepts which is organized topic-wise. It is a great reference builit for interview preparation and SQL mastery. | N/A | [GitHub](https://github.com/arshbibhaw/LeetCode-SQL-50-Study-Plan) |
 <!-- END_PROJECTS -->
 
 ---
