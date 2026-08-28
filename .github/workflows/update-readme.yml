@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+    - cron: '30 18 * * *' # Runs at 18:30 UTC (Midnight 00:00 IST) every day
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
