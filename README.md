@@ -124,12 +124,10 @@ Contact     cse.arsh@gmail.com
 <!-- START_PROJECTS -->
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **arshbibhaw** | A dynamic, self-updating GitHub profile README. Powered by Python and GitHub Actions to automatically fetch and display my latest active projects, Vercel portfolio analytics, and coding stats every night. | Python | [GitHub](https://github.com/arshbibhaw/arshbibhaw) |
 | **Nyaya-Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts. | TypeScript | [Live](https://nyaayasaathi.vercel.app) · [GitHub](https://github.com/arshbibhaw/Nyaya-Saathi) |
-| **AI_Engineering_PwP** | This repository is where I document my AI Engineering learning journey through the Padho with Pratyush YouTube course. I'm building projects, experimenting with ideas, and practicing concepts as I continue to learn and improve my skills. | Python | [GitHub](https://github.com/arshbibhaw/AI_Engineering_PwP) |
-| **Booking-Automation-System** | This is currently a demo project. | N/A | [GitHub](https://github.com/arshbibhaw/Booking-Automation-System) |
+| **arshbibhaw** | A dynamic, self-updating GitHub profile README. Powered by Python and GitHub Actions to automatically fetch and display my latest active projects, Vercel portfolio analytics, and coding stats every night. | Python | [GitHub](https://github.com/arshbibhaw/arshbibhaw) |
 | **DevHQ-Personal-Portfolio-Website** | Professional portfolio with 3D WebGL starfield, GSAP animations, and interactive effects. Built with Three.js, GSAP, and JavaScript. Features custom cursor, typing animation, magnetic 3D card tilt, timeline progress, secure Vercel serverless backend, and glassmorphism design. Optimized for Peak Performance with consistent 60fps WebGL rendering. | CSS | [Live](https://aakarsh-devhq.vercel.app) · [GitHub](https://github.com/arshbibhaw/DevHQ-Personal-Portfolio-Website) |
-| **IIIT-Kernel-2K25-Website** | This is the Official Website of IIIT Kernel made by Aakarsh Bibhaw and Aditya Pandey. | TypeScript | [Live](https://iiit-kernel.vercel.app) · [GitHub](https://github.com/arshbibhaw/IIIT-Kernel-2K25-Website) |
+| **AI_Engineering_PwP** | This repository is where I document my AI Engineering learning journey through the Padho with Pratyush YouTube course. I'm building projects, experimenting with ideas, and practicing concepts as I continue to learn and improve my skills. | Python | [GitHub](https://github.com/arshbibhaw/AI_Engineering_PwP) |
 | **LeetCode-SQL-50-Study-Plan** | A structured collection of MySQL solutions to all 50 problems in LeetCode's SQL Study Plan, covering from fundamentals to advanced concepts which is organized topic-wise. It is a great reference builit for interview preparation and SQL mastery. | N/A | [GitHub](https://github.com/arshbibhaw/LeetCode-SQL-50-Study-Plan) |
 <!-- END_PROJECTS -->
 
@@ -151,13 +149,20 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 ## Open Source
 
 <!-- START_OPEN_SOURCE -->
-| Repository | Contribution | Status | Pull Request |
-|---|---|---|---|
-| [`Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-`](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-) | Enhanced UI/UX Modernization, Independence Day Theme, and Performance Fixes | Merged | [#1](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-/pull/1) |
-| [`Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite`](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite) | Implemented the 'Connect-with-Us' Section and Enhanced the STRUCTURE.md file | Merged | [#1](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite/pull/1) |
-| [`Evavic44/portfolio-ideas`](https://github.com/Evavic44/portfolio-ideas) | Added DevHQ to an open-source repository for inspiration of awesome portfolio ideas | Merged | [#677](https://github.com/Evavic44/portfolio-ideas/pull/677) |
-| [`emmabostian/developer-portfolios`](https://github.com/emmabostian/developer-portfolios) | Updated the tagline of my portfolio | Merged | [#3899](https://github.com/emmabostian/developer-portfolios/pull/3899) |
-| [`emmabostian/developer-portfolios`](https://github.com/emmabostian/developer-portfolios) | Added DevHQ to the open-source developer portfolio directory | Merged | [#3882](https://github.com/emmabostian/developer-portfolios/pull/3882) |
+### [Quills-n-Stills-IIIT-KOTA](https://github.com/Quills-n-Stills-IIIT-KOTA)
+- **[`Interactive-Live-quiz-for-events-`](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-)**
+  - [**#1**](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-/pull/1) — Enhanced UI/UX Modernization, Independence Day Theme, and Performance Fixes
+- **[`Q-n-S-Wbsite`](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite)**
+  - [**#1**](https://github.com/Quills-n-Stills-IIIT-KOTA/Q-n-S-Wbsite/pull/1) — Implemented the 'Connect-with-Us' Section and Enhanced the STRUCTURE.md file
+
+### [Evavic44](https://github.com/Evavic44)
+- **[`portfolio-ideas`](https://github.com/Evavic44/portfolio-ideas)**
+  - [**#677**](https://github.com/Evavic44/portfolio-ideas/pull/677) — Added DevHQ to an open-source repository for inspiration of awesome portfolio ideas
+
+### [emmabostian](https://github.com/emmabostian)
+- **[`developer-portfolios`](https://github.com/emmabostian/developer-portfolios)**
+  - [**#3899**](https://github.com/emmabostian/developer-portfolios/pull/3899) — Updated the tagline of my portfolio
+  - [**#3882**](https://github.com/emmabostian/developer-portfolios/pull/3882) — Added DevHQ to the open-source developer portfolio directory
 <!-- END_OPEN_SOURCE -->
 
 ---

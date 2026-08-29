@@ -55,13 +55,34 @@ def get_vercel_views():
         print(f"Error fetching Vercel Analytics: {e}")
         return None
 
-def generate_projects_table(repos):
-    # Filter out forks and sort by pushed_at descending (most recently active)
+def generate_projects_table(repos, username):
+    # Filter out forks and keep active repos
     active_repos = [r for r in repos if not r.get("fork", False) and r.get("pushed_at")]
-    active_repos.sort(key=lambda x: datetime.strptime(x["pushed_at"], "%Y-%m-%dT%H:%M:%SZ"), reverse=True)
     
-    # Pick top 7 projects
-    top_repos = active_repos[:7]
+    # Fetch contribution count for each repo
+    for repo in active_repos:
+        repo_name = repo.get("name")
+        commits_url = f"https://api.github.com/repos/{username}/{repo_name}/commits?author={username}&per_page=1"
+        try:
+            commits_resp = requests.get(commits_url, headers=headers_github)
+            count = 0
+            if "Link" in commits_resp.headers:
+                match = re.search(r'page=(\d+)>; rel="last"', commits_resp.headers["Link"])
+                if match:
+                    count = int(match.group(1))
+            else:
+                if commits_resp.status_code == 200:
+                    count = len(commits_resp.json())
+            repo["contributions_count"] = count
+        except Exception as e:
+            print(f"Error fetching commits for {repo_name}: {e}")
+            repo["contributions_count"] = 0
+            
+    # Sort by contributions count descending, then by pushed_at descending
+    active_repos.sort(key=lambda x: (x.get("contributions_count", 0), x.get("pushed_at")), reverse=True)
+    
+    # Pick top 5 projects
+    top_repos = active_repos[:5]
     
     table = "| Project | Description | Tech Stack | Links |\n"
     table += "|---|---|---|---|\n"
@@ -108,9 +129,8 @@ def get_merged_prs(username):
         if not items:
             return ""
             
-        table = "| Repository | Contribution | Status | Pull Request |\n"
-        table += "|---|---|---|---|\n"
-        
+        # Group by organization and repository
+        orgs = {}
         for item in items:
             pr_url = item.get("html_url")
             pr_title = item.get("title")
@@ -121,9 +141,34 @@ def get_merged_prs(username):
             # Use custom description if available, otherwise fallback to PR title
             description = CUSTOM_PR_DESCRIPTIONS.get(pr_url, pr_title)
             
-            table += f"| [`{repo_name}`]({repo_url}) | {description} | Merged | [#{pr_number}]({pr_url}) |\n"
+            try:
+                org, repo = repo_name.split("/")
+            except ValueError:
+                org, repo = repo_name, repo_name
+                
+            if org not in orgs:
+                orgs[org] = {}
+            if repo not in orgs[org]:
+                orgs[org][repo] = []
+                
+            orgs[org][repo].append({
+                "pr_number": pr_number,
+                "pr_url": pr_url,
+                "description": description,
+                "repo_url": repo_url
+            })
             
-        return table
+        table = ""
+        for org, repos in orgs.items():
+            table += f"### [{org}](https://github.com/{org})\n"
+            for repo, prs in repos.items():
+                repo_url = prs[0]["repo_url"]
+                table += f"- **[`{repo}`]({repo_url})**\n"
+                for pr in prs:
+                    table += f"  - [**#{pr['pr_number']}**]({pr['pr_url']}) — {pr['description']}\n"
+            table += "\n"
+            
+        return table.strip() + "\n"
     except Exception as e:
         print(f"Error fetching PRs: {e}")
         return ""
@@ -142,7 +187,7 @@ def update_readme():
     prs_table = get_merged_prs(username)
     
     # Generate new content
-    projects_table = generate_projects_table(repos)
+    projects_table = generate_projects_table(repos, username)
     
     # Read README
     with open("README.md", "r", encoding="utf-8") as f:
