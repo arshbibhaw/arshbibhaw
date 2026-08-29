@@ -110,7 +110,6 @@ Contact     cse.arsh@gmail.com
 | Unique Visitors | 4,400+ | Unique Visitors (Last 30 days) |
 | LinkedIn Connections | 2,550+ | At Present |
 | Total Questions Solved | 259 | All platforms |
-| Active Coding Days | 60 | All time |
 | Contests Attended | 30 | LeetCode + CodeChef |
 | GitHub Repositories | 16 | Public |
 <!-- END_STATS -->
@@ -222,13 +221,12 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arshbibhaw&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
-
+![Activity Graph](https://arshbibhaw-github-activity-graph.vercel.app/graph?username=arshbibhaw&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 </div>
 
 ---
 
-## Timeline
+## Timelines
 
 ### 2026
 
