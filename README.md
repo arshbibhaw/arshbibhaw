@@ -108,9 +108,9 @@ Contact     cse.arsh@gmail.com
 |:---:|:---:|:---:|
 | Portfolio Page Views | 5,750+ | Page Views (Last 30 days) |
 | Unique Visitors | 4,400+ | Unique Visitors (Last 30 days) |
-| LinkedIn Connections | 2,550+ | At Present |
+| LinkedIn Connections | 3,000+ | At Present |
 | Total Questions Solved | 259 | All platforms |
-| Contests Attended | 30 | LeetCode + CodeChef |
+| Contests Attended | 31 | LeetCode + CodeChef |
 | GitHub Repositories | 16 | Public |
 <!-- END_STATS -->
 
@@ -234,7 +234,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 - **HackerRank Campus Crew Ambassador** *(Aug - present)*
 - **Milestone:** DevHQ crosses 5,650 page views and 4,350 unique visitors in 30 days
 - **Winner:** GeekOMania Quiz, GFG Campus Body, IIIT Kota *(all years, all branches)*
-- **Open Source:** Built DevHQ, merged into `emmabostian/developer-portfolios` & `Evavic44/portfolio-ideas`; contributed to [`Quills-n-Stills-IIIT-KOTA`](https://github.com/Quills-n-Stills-IIIT-KOTA)
+- **Open Source:** Built DevHQ, merged into `emmabostian/developer-portfolios` & `Evavic44/portfolio-ideas`; contributed to `Quills-n-Stills-IIIT-KOTA`
 - **Learning:** Pursuing Anthropic Academy: Building with Claude API
 
 ### 2025
