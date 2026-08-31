@@ -110,13 +110,8 @@ Contact     cse.arsh@gmail.com
 | Unique Visitors | 4,400+ | Unique Visitors (Last 30 days) |
 | LinkedIn Connections | 3,000+ | At Present |
 | Total Questions Solved | 259 | All platforms |
-<<<<<<< HEAD
 | Contests Attended | 31 | LeetCode + CodeChef |
-| GitHub Repositories | 16 | Public |
-=======
-| Contests Attended | 30 | LeetCode + CodeChef |
 | GitHub Repositories | 17 | Public |
->>>>>>> 981d6fda89fbc5da87f0f31614cfb127e47da69e
 <!-- END_STATS -->
 
 </div>
