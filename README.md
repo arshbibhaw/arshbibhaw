@@ -110,7 +110,7 @@ Contact     cse.arsh@gmail.com
 | Unique Visitors | 4,400+ | Unique Visitors (Last 30 days) |
 | LinkedIn Connections | 3,000+ | At Present |
 | Total Questions Solved | 259 | All platforms |
-| Contests Attended | 31 | LeetCode + CodeChef |
+| Contests Attended | 32 | LeetCode + CodeChef |
 | GitHub Repositories | 17 | Public |
 <!-- END_STATS -->
 
@@ -199,7 +199,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 | Platform | Handle | Stats |
 |:---:|:---:|:---:|
-| CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1387 · Highest 1407 · 114 problems · 27 contests |
+| CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1400 · Highest 1407 · 127 problems · 29 contests |
 
 </div>
 
