@@ -111,7 +111,7 @@ Contact     cse.arsh@gmail.com
 | LinkedIn Connections | 3,100+ | At Present |
 | Total Questions Solved | 259 | All platforms |
 | Contests Attended | 32 | LeetCode + CodeChef |
-| GitHub Repositories | 17 | Public |
+| GitHub Repositories | 18 | Public |
 <!-- END_STATS -->
 
 </div>
@@ -123,11 +123,11 @@ Contact     cse.arsh@gmail.com
 <!-- START_PROJECTS -->
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Nyaya-Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts. | TypeScript | [Live](https://nyaayasaathi.vercel.app) · [Repo](https://github.com/arshbibhaw/Nyaya-Saathi) |
-| **arshbibhaw** | A dynamic, self-updating GitHub profile README. Powered by Python and GitHub Actions to automatically fetch and display my latest active projects, Vercel portfolio analytics, and coding stats every night. | Python | [Repo](https://github.com/arshbibhaw/arshbibhaw) |
-| **DevHQ-Personal-Portfolio-Website** | Professional portfolio with 3D WebGL starfield, GSAP animations, and interactive effects. Built with Three.js, GSAP, and JavaScript. Features custom cursor, typing animation, magnetic 3D card tilt, timeline progress, secure Vercel serverless backend, and glassmorphism design. Optimized for Peak Performance with consistent 60fps WebGL rendering. | CSS | [Live](https://aakarsh-devhq.vercel.app) · [Repo](https://github.com/arshbibhaw/DevHQ-Personal-Portfolio-Website) |
-| **AI_Engineering_PwP** | This repository is where I document my AI Engineering learning journey through the Padho with Pratyush YouTube course. I'm building projects, experimenting with ideas, and practicing concepts as I continue to learn and improve my skills. | Python | [Repo](https://github.com/arshbibhaw/AI_Engineering_PwP) |
-| **LeetCode-SQL-50-Study-Plan** | A structured collection of MySQL solutions to all 50 problems in LeetCode's SQL Study Plan, covering from fundamentals to advanced concepts which is organized topic-wise. It is a great reference builit for interview preparation and SQL mastery. | N/A | [Repo](https://github.com/arshbibhaw/LeetCode-SQL-50-Study-Plan) |
+| **Nyaya-Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts. | TypeScript | [Live](https://nyaayasaathi.vercel.app) · [GitHub](https://github.com/arshbibhaw/Nyaya-Saathi) |
+| **arshbibhaw** | A dynamic, self-updating GitHub profile README. Powered by Python and GitHub Actions to automatically fetch and display my latest active projects, Vercel portfolio analytics, and coding stats every night. | Python | [GitHub](https://github.com/arshbibhaw/arshbibhaw) |
+| **DevHQ-Personal-Portfolio-Website** | Professional portfolio with 3D WebGL starfield, GSAP animations, and interactive effects. Built with Three.js, GSAP, and JavaScript. Features custom cursor, typing animation, magnetic 3D card tilt, timeline progress, secure Vercel serverless backend, and glassmorphism design. Optimized for Peak Performance with consistent 60fps WebGL rendering. | CSS | [Live](https://aakarsh-devhq.vercel.app) · [GitHub](https://github.com/arshbibhaw/DevHQ-Personal-Portfolio-Website) |
+| **AI_Engineering_PwP** | This repository is where I document my AI Engineering learning journey through the Padho with Pratyush YouTube course. I'm building projects, experimenting with ideas, and practicing concepts as I continue to learn and improve my skills. | Python | [GitHub](https://github.com/arshbibhaw/AI_Engineering_PwP) |
+| **Adaptive-AI-Tutor** | An adaptive AI learning platform that transforms educational content and topics into personalized learning experiences. It uses RAG to understand study material, generates structured lessons, supports multilingual teaching, evaluates student responses, detects learning gaps, adapts explanations, tracks progress, and recommends what to learn next. | Python | [GitHub](https://github.com/arshbibhaw/Adaptive-AI-Tutor) |
 <!-- END_PROJECTS -->
 
 ---
