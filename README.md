@@ -148,6 +148,10 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 ## Open Source
 
 <!-- START_OPEN_SOURCE -->
+### [techoprohit](https://github.com/techoprohit)
+- **[`Verity`](https://github.com/techoprohit/Verity)**
+  - [**#4**](https://github.com/techoprohit/Verity/pull/4) — Implement Backend Endpoints for T1 Core Specifications
+
 ### [Quills-n-Stills-IIIT-KOTA](https://github.com/Quills-n-Stills-IIIT-KOTA)
 - **[`Interactive-Live-quiz-for-events-`](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-)**
   - [**#1**](https://github.com/Quills-n-Stills-IIIT-KOTA/Interactive-Live-quiz-for-events-/pull/1) — Enhanced UI/UX Modernization, Independence Day Theme, and Performance Fixes
