@@ -111,7 +111,7 @@ Contact     cse.arsh@gmail.com
 | LinkedIn Connections | 3,300+ | At Present |
 | Total Questions Solved | 259 | All platforms |
 | Contests Attended | 32 | LeetCode + CodeChef |
-| GitHub Repositories | 18 | Public |
+| GitHub Repositories | 19 | Public |
 <!-- END_STATS -->
 
 </div>
