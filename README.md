@@ -106,9 +106,9 @@ Contact     cse.arsh@gmail.com
 <!-- START_STATS -->
 | Metric | Count | Source |
 |:---:|:---:|:---:|
-| Portfolio Page Views | 5,750+ | Page Views (Last 30 days) |
-| Unique Visitors | 4,400+ | Unique Visitors (Last 30 days) |
-| LinkedIn Connections | 3,300+ | At Present |
+| Portfolio Page Views | 5,750+ | Peak Page Views (Last 30 days) |
+| Unique Visitors | 4,400+ | Peak Unique Visitors (Last 30 days) |
+| LinkedIn Connections | 3,450+ | At Present |
 | Total Questions Solved | 259 | All platforms |
 | Contests Attended | 32 | LeetCode + CodeChef |
 | GitHub Repositories | 19 | Public |
@@ -185,7 +185,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 | Certification | Issuer | Link |
 |---|---|---|
-| Building with Claude API *(in progress)* | Anthropic Academy | - |
+| Building with Claude API | Anthropic Academy | [Verify](https://verify.skilljar.com/c/3a9b7mdx8skn) |
 | AI Fluency for Builders | Anthropic Academy | [Verify](https://verify.skilljar.com/c/z8wpz9cyhbvh) |
 | AI Fluency: Foundation and Frameworks | Anthropic Academy | [Verify](https://verify.skilljar.com/c/jcaxggkjjy27) |
 | AI Fluency: Capabilities and Limitations | Anthropic Academy | [Verify](https://verify.skilljar.com/c/hasftoxptzgd) |
