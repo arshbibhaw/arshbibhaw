@@ -34,7 +34,7 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at **IIIT Kota** (Batch 2024-2028) and currently working as an **SDE Intern at Snooozeit Entertainment**. My work spans full-stack development, AI product engineering, and browser-based tools. I enjoy building things end-to-end and care about clean code, practical architecture, and shipping on time.
+I am a Computer Science undergraduate at **IIIT Kota** (Batch 2024-2028) and currently working as an **SDE Intern at OneShopAI**. My work spans full-stack development, AI product engineering, and browser-based tools. I enjoy building things end-to-end and care about clean code, practical architecture, and shipping on time.
 
 Beyond code, I actively lead teams in hackathons, run technical communities at college, and contribute to open source.
 
@@ -134,7 +134,7 @@ Contact     cse.arsh@gmail.com
 
 ## Experience
 
-**SDE Intern, Snooozeit Entertainment** *(Jun 2026 - present)* <br>
+**SDE Intern, OneShopAI** *(Oct 2026 - present)* <br>
 Developing and maintaining production software, writing clean and scalable code, and collaborating across teams to deliver features end-to-end.
 
 **HackerRank Campus Crew Ambassador** *(Aug 2026 - present)* <br>
@@ -234,7 +234,7 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 ### 2026
 
-- **SDE Intern** at Snooozeit Entertainment *(Jun - present)*
+- **SDE Intern** at OneShopAI *(Oct - present)*
 - **HackerRank Campus Crew Ambassador** *(Aug - present)*
 - **Milestone:** DevHQ crosses 5,650 page views and 4,350 unique visitors in 30 days
 - **Winner:** GeekOMania Quiz, GFG Campus Body, IIIT Kota *(all years, all branches)*
