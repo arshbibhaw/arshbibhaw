@@ -47,55 +47,35 @@ Contact     cse.arsh@gmail.com
 
 ---
 
-## Skills
+## Tech Stack
 
-**Languages**
+**Programming Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Programming Languages](https://skillicons.dev/icons?i=cpp,py,java,js,ts,bash)](https://skillicons.dev)
 
-**Frontend**
+**Frontend & UI/UX Design**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+[![Frontend & UI/UX Design](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,threejs,vite,figma)](https://skillicons.dev)
 
-**Backend and Databases**
+**Backend & Machine Learning**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Backend & Machine Learning](https://skillicons.dev/icons?i=nodejs,express,fastapi,sklearn)](https://skillicons.dev)
 
-**AI and Data**
+**Databases & Caching**
 
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+[![Databases & Caching](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase)](https://skillicons.dev)
 
-**Tools**
+**Cloud, DevOps & Containers**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![Cloud, DevOps & Containers](https://skillicons.dev/icons?i=aws,docker,cloudflare,vercel,netlify,githubactions)](https://skillicons.dev)
+
+**Developer Tooling & Environments**
+
+[![Developer Tooling & Environments](https://skillicons.dev/icons?i=git,github,postman,powershell,npm,pnpm)](https://skillicons.dev)
+
+**Productivity & Collaboration**
+
+[![Productivity & Collaboration](https://skillicons.dev/icons?i=md,latex,notion,obsidian,discord,linkedin)](https://skillicons.dev)
 
 ---
 
@@ -106,10 +86,10 @@ Contact     cse.arsh@gmail.com
 <!-- START_STATS -->
 | Metric | Count | Source |
 |:---:|:---:|:---:|
-| Portfolio Page Views | 5,750+ | Peak Page Views (Last 30 days) |
-| Unique Visitors | 4,400+ | Peak Unique Visitors (Last 30 days) |
-| LinkedIn Connections | 3,600+ | At Present |
-| Total Questions Solved | 259 | All platforms |
+| Portfolio Page Views | 5,750+ | Peak Page Views (in 30 days) |
+| Unique Visitors | 4,400+ | Peak Unique Visitors (in 30 days) |
+| LinkedIn Connections | 3,900+ | At Present |
+| Total Questions Solved | 260 | All platforms |
 | Contests Attended | 32 | LeetCode + CodeChef |
 | GitHub Repositories | 19 | Public |
 <!-- END_STATS -->
