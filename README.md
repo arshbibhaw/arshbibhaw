@@ -13,15 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://aakarsh-devhq.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakarsh-bibhaw)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cse.arsh@gmail.com)
-
-<br/>
-
-[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1400-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
-[![HackerRank](https://img.shields.io/badge/HackerRank_5★_·_Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
+[![Portfolio](https://skillicons.dev/icons?i=htmx)](https://aakarsh-devhq.vercel.app)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aakarsh-bibhaw)&nbsp;&nbsp;&nbsp;&nbsp;[![Email](https://skillicons.dev/icons?i=gmail)](mailto:cse.arsh@gmail.com)
 
 <br/>
 <br/>
@@ -177,25 +169,21 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 ---
 
-## Competitive Programming
+## Competitive Programming and DSA
 
 <div align="center">
+
+<br/>
+
+[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1400-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
+[![HackerRank](https://img.shields.io/badge/HackerRank_5★_·_Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
+
+<br/>
 
 | Platform | Handle | Stats |
 |:---:|:---:|:---:|
 | CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1400 · Highest 1407 · 127 problems · 29 contests |
-
-</div>
-
-<!-- **Problem Breakdown (across all platforms)** -->
-
-<!-- | Category | Difficulty | Count |
-|:---:|:---:|:---:|
-| DSA | Easy | 58 |
-| DSA | Medium | 13 |
-| DSA | Hard | 1 |
-| Fundamentals | HackerRank | 54 |
-| Competitive Programming | CodeChef | 84 | -->
 
 </div>
 
