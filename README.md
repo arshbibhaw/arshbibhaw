@@ -82,7 +82,7 @@ Contact     cse.arsh@gmail.com
 | Unique Visitors | 4,400+ | Peak Unique Visitors (in 30 days) |
 | LinkedIn Connections | 3,900+ | At Present |
 | Total Questions Solved | 260 | All platforms |
-| Contests Attended | 32 | LeetCode + CodeChef |
+| Contests Attended | 34 | LeetCode + CodeChef |
 | GitHub Repositories | 19 | Public |
 <!-- END_STATS -->
 
@@ -95,11 +95,11 @@ Contact     cse.arsh@gmail.com
 <!-- START_PROJECTS -->
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Nyaya-Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts. | TypeScript | [Live](https://nyaayasaathi.vercel.app) · [GitHub](https://github.com/arshbibhaw/Nyaya-Saathi) |
-| **arshbibhaw** | A dynamic, self-updating GitHub profile README. Powered by Python and GitHub Actions to automatically fetch and display my latest active projects, Vercel portfolio analytics, and coding stats every night. | Python | [GitHub](https://github.com/arshbibhaw/arshbibhaw) |
-| **DevHQ-Personal-Portfolio-Website** | Professional portfolio with 3D WebGL starfield, GSAP animations, and interactive effects. Built with Three.js, GSAP, and JavaScript. Features custom cursor, typing animation, magnetic 3D card tilt, timeline progress, secure Vercel serverless backend, and glassmorphism design. Optimized for Peak Performance with consistent 60fps WebGL rendering. | CSS | [Live](https://aakarsh-devhq.vercel.app) · [GitHub](https://github.com/arshbibhaw/DevHQ-Personal-Portfolio-Website) |
-| **AI_Engineering_PwP** | This repository is where I document my AI Engineering learning journey through the Padho with Pratyush YouTube course. I'm building projects, experimenting with ideas, and practicing concepts as I continue to learn and improve my skills. | Python | [GitHub](https://github.com/arshbibhaw/AI_Engineering_PwP) |
-| **OneShopAI-Assignment** | Building an improved and fully functional version of selected OneShopAI features, focusing on UI/UX, functionality, backend integration, and system design. | TypeScript | [Live](https://oneshopai-assignment.vercel.app) · [GitHub](https://github.com/arshbibhaw/OneShopAI-Assignment) |
+| **Nyaya-Saathi** | AI-assisted legal navigation platform that turns citizen legal problems into verified information, evidence insights, actionable steps, and structured document drafts. | TypeScript | [Live](https://nyaayasaathi.vercel.app) · [Repo](https://github.com/arshbibhaw/Nyaya-Saathi) |
+| **arshbibhaw** | A dynamic, self-updating GitHub profile README. Powered by Python and GitHub Actions to automatically fetch and display my latest active projects, Vercel portfolio analytics, and coding stats every night. | Python | [Repo](https://github.com/arshbibhaw/arshbibhaw) |
+| **DevHQ-Personal-Portfolio-Website** | Professional portfolio with 3D WebGL starfield, GSAP animations, and interactive effects. Built with Three.js, GSAP, and JavaScript. Features custom cursor, typing animation, magnetic 3D card tilt, timeline progress, secure Vercel serverless backend, and glassmorphism design. Optimized for Peak Performance with consistent 60fps WebGL rendering. | CSS | [Live](https://aakarsh-devhq.vercel.app) · [Repo](https://github.com/arshbibhaw/DevHQ-Personal-Portfolio-Website) |
+| **AI_Engineering_PwP** | This repository is where I document my AI Engineering learning journey through the Padho with Pratyush YouTube course. I'm building projects, experimenting with ideas, and practicing concepts as I continue to learn and improve my skills. | Python | [Repo](https://github.com/arshbibhaw/AI_Engineering_PwP) |
+| **OneShopAI-Assignment** | Building an improved and fully functional version of selected OneShopAI features, focusing on UI/UX, functionality, backend integration, and system design. | TypeScript | [Live](https://oneshopai-assignment.vercel.app) · [Repo](https://github.com/arshbibhaw/OneShopAI-Assignment) |
 <!-- END_PROJECTS -->
 
 ---
@@ -165,8 +165,6 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 | SQL Intermediate | HackerRank | [Verify](https://drive.google.com/file/d/1SzwC8ZvCaloBbZkS_fdZLePhqu-Ng8Al/view) |
 | SQL Basic | HackerRank | [Verify](https://www.hackerrank.com/certificates/4c4a99fffc73) |
 
-
-
 ---
 
 ## Competitive Programming and DSA
@@ -175,15 +173,18 @@ Managed production content using HTML and LaTeX across CMS platforms. Reduced fo
 
 <br/>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1400-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/arshbibhaw)
-[![HackerRank](https://img.shields.io/badge/HackerRank_5★_·_Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/arshbibhaw)
+[![CodeChef](https://img.shields.io/badge/CodeChef_2★_·_Rating_1415-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/arshbibhaw)&nbsp;&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-1A1A1A?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/arshbibhaw)&nbsp;&nbsp;&nbsp;&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank_5★_·_Gold-1A1A1A?style=flat-square&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/arshbibhaw)
 
 <br/>
 
-| Platform | Handle | Stats |
+<!-- START_CP_DSA -->
+| Platform | Handle | Solved |
 |:---:|:---:|:---:|
-| CodeChef | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 2★ · Rating 1400 · Highest 1407 · 127 problems · 29 contests |
+| **CodeChef** | [arshbibhaw](https://www.codechef.com/users/arshbibhaw) | 130 |
+| **LeetCode** | [arshbibhaw](https://leetcode.com/arshbibhaw) | 74 |
+| **HackerRank** | [arshbibhaw](https://hackerrank.com/arshbibhaw) | 56 |
+| **Total** | — | **260** |
+<!-- END_CP_DSA -->
 
 </div>
 
